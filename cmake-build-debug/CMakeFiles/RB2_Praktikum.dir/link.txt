@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/RB2_Praktikum.dir/RB2_Pr08/Aufgabe2/thread_simple.c.o  -o RB2_Praktikum  -lpthread 
