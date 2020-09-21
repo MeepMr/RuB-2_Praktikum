@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/RB2_Praktikum2.dir/RB2_Pr07/Aufgabe2/toUpper.c.o  -o RB2_Praktikum2 

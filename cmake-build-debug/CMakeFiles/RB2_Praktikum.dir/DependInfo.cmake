@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/mrmeep/CLionProjects/RB2_Praktikum/RB2_Pr08/Aufgabe2/thread_simple.c" "/home/mrmeep/CLionProjects/RB2_Praktikum/cmake-build-debug/CMakeFiles/RB2_Praktikum.dir/RB2_Pr08/Aufgabe2/thread_simple.c.o"
+  "/Users/justinklein/Library/Mobile Documents/com~apple~CloudDocs/dev/RB2_Praktikum/RB2_Pr08/Aufgabe2/thread_simple.c" "/Users/justinklein/Library/Mobile Documents/com~apple~CloudDocs/dev/RB2_Praktikum/cmake-build-debug/CMakeFiles/RB2_Praktikum.dir/RB2_Pr08/Aufgabe2/thread_simple.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
